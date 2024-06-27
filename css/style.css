@@ -1,0 +1,42 @@
+/* Add all your styles here */
+body {
+    background-color: silver;
+    background-repeat: none ;     
+}
+img{
+    background-size:100%;
+    width:50px;
+}
+table {
+    border:1px solid black;
+    width:21pc;
+    background-image:;
+    border-collapse:collapse ;
+    color:#10214C;
+    text-transform:uppercase ;
+}
+th, td{
+    border:1px solid black;
+}
+h6{
+    text-align:right;
+    color:navy;
+    text-transform:uppercase;
+    font-size:10px;
+    text-align: right;
+    
+}
+h5{
+    text-align:center;
+    color:navy;
+    text-transform:uppercase ;
+}
+#size{
+    font-size:10px;
+    text-align:center;
+}
+#coe{
+    position: absolute;
+    display: inline-block ;
+    margin-left:50px;
+}
